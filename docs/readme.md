@@ -1,2 +1,2 @@
 
-spm is now bashman.
+spm is now bashman. There are many spm but only one bashman.
